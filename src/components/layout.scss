@@ -1,0 +1,449 @@
+@import "~bootstrap/scss/bootstrap";
+
+//No copy
+
+$major-color: #384C5D;
+
+img{
+  pointer-events: none;
+  -webkit-touch-callout: none;
+  padding: 20px 20px 20px 20px;
+}
+
+//body {
+//  -webkit-user-select: none;  /* Chrome all / Safari all */
+//  -moz-user-select: none;     /* Firefox all */
+//  -ms-user-select: none;      /* IE 10+ */
+//  -o-user-select: none;
+//  user-select: none;
+// }
+
+//Layout
+
+footer {
+  margin-top: 0;
+}
+
+//General
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Noto Serif TC', serif;
+  margin: 20px 20px 10px 20px;
+  font-weight: 700;
+}
+
+p, a, div, ul, li, ol {
+  font-family: 'Noto Sans TC', sans-serif;
+  font-weight: 300;
+}
+
+ul{
+  margin-top: 20px;
+  list-style-type:square;
+}
+
+li{
+  margin-left: 20px;
+}
+
+p {
+  margin: 20px 20px 20px 20px;
+}
+
+.main-container{
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+
+.fluid-gray{
+  background-color: #d9e2ea;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.fluid-dark{
+  background-color: #343a3f;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.fluid-dark p, 
+.fluid-dark a,
+.fluid-dark div,
+.fluid-dark ul,
+.fluid-dark li,
+.fluid-dark ol,
+.fluid-dark h1,
+.fluid-dark h2,
+.fluid-dark h3,
+.fluid-dark h4,
+.fluid-dark h5,
+.fluid-dark h6{
+  color: #f8f9fa;
+}
+
+.row{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+//Head
+
+#header-logo {
+  width: 35px;
+  height: auto;
+  padding: 0;
+}
+
+#secondary-menu {
+  justify-content: left;
+}
+
+#secondary-menu .navbar-nav{
+  padding-right: 30px;
+}
+
+#home-link {
+  font-family: "Verdana";
+  color: rgba(0, 0, 0, 0.8);
+}
+
+#home-link:hover {
+  text-decoration:none;
+}
+
+.primary-menu a {
+  color: rgba(0, 0, 0, 0.5);
+  font-family: "Noto Sans TC";
+  font-weight: 500;
+}
+
+.primary-menu a:hover {
+  text-decoration:none;
+}
+
+.navbar{
+  background-color: #F8F9FA;
+}
+
+.my-nav-link, .my-dropdown-item {
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+  display: block;
+}
+
+#collasible-nav-dropdown{
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+  display: block;
+}
+
+#search-bar{
+  outline: none;
+  width: 100%;
+}
+
+#search-icon{
+  position: absolute;
+  color: rgba(0, 0, 0, 0.5);
+  right: 30px;
+}
+
+#search-row{
+  margin-top: 5px 5px 5px 5px;
+}
+
+/*.search-result{
+  position: absolute;
+  width: 150px;
+  height: 300px;
+  background-color: #F8F9FA;
+  border: #343a40;
+  border-width: thin;
+}*/
+
+// Slider
+
+#slideshow .carousel-inner{
+  max-height: calc(100vh - 116px );
+}
+
+#slideshow .carousel-inner carousel-item{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content:  center;
+}
+
+#slideshow .carousel-inner img{
+  padding: 0 0 0 0;
+  width: 100vw;
+  object-fit: cover;
+  max-height: calc(100vh - 116px);
+}
+
+// Head
+
+.no-pointer a{
+  pointer-events: none;
+}
+
+//Index
+
+#about-block{
+  margin-top: 60px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+#about-block h3{
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#about-block p{
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-bottom: 10px;
+}
+
+.about-icon{
+  width: auto;
+  height: auto;
+  max-height: 100px;
+}
+
+.about-icon img{
+  width: auto;
+  height: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+#mission-block h2{
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+#mission-block{
+  margin-top: 0;
+  padding-top: 0;
+}
+
+//Footer
+
+footer{
+  width: 100vw;
+}
+
+#footer-primary-container{
+  background-color: $major-color;
+  color: white;
+  padding-left:0;
+  padding-right:0;
+  margin-left:0;
+  margin-right:0;
+  width:100vw;
+}
+
+#footer-contact-info-col{
+  padding: 20px 20px 20px 20px;
+}
+
+#footer-desclaimer-col{
+  padding: 20px 20px 20px 20px;
+}
+
+.footer-contact-info{
+  padding: 0;
+}
+
+.footer-disclaimer{
+  padding: 0;
+}
+
+#footer-desclaimer-col p{
+  font-size: 0.8em;
+  padding-right: 20px;
+}
+
+#footer-secondary-container{
+  background-color:#343a40;
+  color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#footer-secondary-container p{
+  font-size: 0.5em;
+  margin-top: 0;
+}
+
+#footer-logo{
+  width: auto;
+  height: 70px;
+  padding-bottom: 10px;
+}
+
+#footer-secondary-container h6{
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+//Contact info
+
+.contact-info{
+  list-style-type:none;
+  margin-top: 0;
+  padding-left: 20px;
+}
+
+.contact-info li{
+  text-indent: -1.5em;
+  margin-left: 1.5em;
+  margin-top: 0;
+}
+
+.contact-info svg{
+  margin-right: 10px;
+}
+
+//Service.js
+
+#service-banner-container img{
+  padding: 0 0 0 0;
+  width: 100vw;
+  object-fit: cover;
+  height: calc(100vh - 116px);
+}
+
+#service-banner-container {
+  padding-left: 0;
+  padding-right: 0;
+  height: calc(100vh - 116px);
+  width: 100vw;
+}
+
+#service-banner-image{
+  width: 100vw;
+  object-fit: cover;
+  height: calc(100vh - 116px);
+}
+
+#service-intro{
+  margin-bottom: 40px;
+}
+
+/* #service-intro{
+  position: absolute;
+  left: 60vw;
+  top: 70vh;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 30vw;
+  min-width: 200px;
+  height: auto;
+}
+
+#service-intro p{
+  padding: 20px 30px 20px 30px;
+  line-height: 3ex;
+  margin-bottom: 0;
+} */
+
+.col-lg-2{
+  display:  block;
+  align-items: normal;
+  justify-content:  center;
+}
+
+.chart{
+  font-size: large;
+}
+
+.chart2{
+  margin-left: 60px;
+  font-size: large;
+}
+
+#service-container img{
+  padding: 0;
+  margin: 0 auto;
+  width: auto;
+  height: 100%;
+  max-height: 100px;
+  display: block;
+}
+
+#service-container .service-icon{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+//Labels
+
+.labels-head, .badge, .badge-danger{
+  display: block;
+  margin: 0 auto;
+  padding: 10px 5px 10px 5px;
+}
+
+//Global
+
+.location-information{
+  list-style-type:none;
+  margin-top: 0;
+}
+
+.location-information li{
+  text-indent: -1.5em;
+  margin-left: 1.5em;
+  margin-top: 0;
+}
+
+.location-information svg{
+  margin-right: 10px;
+}
+
+.location-information .location-name{
+  font-family: 'Noto Serif TC', serif;
+  font-size: 120%;
+  font-weight: 700;
+  padding-top: 10px;
+}
+
+.location-information .company-name{
+  font-family: 'Noto Serif TC', serif;
+  padding-bottom: 20px;
+  font-weight: 300;
+}
+
+.company-name-zh{
+  font-family: 'Noto Serif TC', serif;
+  font-weight: 700;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.company-name-en{
+  font-family: 'Noto Serif TC', serif;
+  font-weight: 700;
+  padding-top: 0;
+  padding-left: 10px;
+}
+
+.company-name{
+  font-family: 'Noto Serif TC', serif;
+  font-weight: 700;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.map-marker{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: 150%;
+}

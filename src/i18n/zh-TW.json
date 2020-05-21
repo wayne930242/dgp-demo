@@ -1,0 +1,140 @@
+{
+    "title": "DGP Taiwan",
+    "description": "SAFETY - QUALITY – EFFICIENCY",
+    "author": "DGP Taiwan",
+    "slogen": "在安全至上的前提下，提供您迅速且有效率的高品質服務。",
+    "short_description": "SAFETY - QUALITY – EFFICIENCY",
+    "company_title": "睿騰國際展業有限公司",
+    "company_title_en": "DGP Taiwan International CO., LTD.",
+    "address1": "11049 台北市信義路五段7號台北101大樓37樓",
+    "address2": "",
+    "disclaimer_title":"網站免責聲明",
+    "disclaimer": {
+        "p1": "本網頁所載的所有資料、商標、標誌、圖像、短片、聲音檔案、連結及其他資料等（以下簡稱「資料」），只供參考之用，睿騰國際展業有限公司（以下簡稱「本公司」）將會隨時更改資料，並由本公司決定而不作另行通知。雖然本公司已盡力確保本網頁的資料準確性，但本公司不會明示或隱含保證該等資料均為準確無誤。本公司不會對任何錯誤或遺漏承擔責任。",
+        "p2": "本公司不會對使用或任何人士使用本網頁而引致任何損害（包括但不限於電腦病毒、系統固障、資料損失）承擔任何賠償。本網頁可能會連結至其他機構所提供的網頁，但這些網頁並不是由本公司所控制。本公司不會對這些網頁所顯示的內容作出任何保證或承擔任何責任。閣下如瀏覽這些網頁，將要自己承擔後果。",
+        "p3": "若中英文版本有差異之處，以中文版本為準。"
+    },
+    "nav_contact": "有任何問題嗎？",
+    "pages":{
+        "index" : "首頁",
+        "service" : "服務項目",
+        "products" : "產品系列",
+        "global" : "全球分部",
+        "contact" : "聯絡我們",
+        "un-box" : "UN認證紙箱",
+        "un-box-custom" : "客製化UN認證紙箱",
+        "un-plastic-drums": "UN認證塑膠桶",
+        "un-biotherm" : "生物醫學包裝箱",
+        "dg-lebels" : "危險品標籤"
+    },
+    "search": "搜尋",
+    "index" : {
+        "ourCorporatePhilosophy": "我們的宗旨",
+        "safety" : "安全",
+        "safetyContent" : "根據IATA國際法規（DGR），確保客戶的危險貨物，安全地抵達目的地。",
+        "quality" : "品質",
+        "qualityContent": "提供高品質之聯合國認證危險物品包材、包裝及航空危險品運輸諮詢等服務。",
+        "efficiency" : "效率",
+        "efficiencyContent" : "在安全至上的前提下，提供您迅速且有效率的高品質服務。",
+        "missionVision" : "使命",
+        "missionVisionContent1" :"DGP擁有一批具危險品證照、多年實務經驗，積極進取且充滿活力的團隊。",
+        "missionVisionContent2" :"我們的目標是為我們寶貴的客戶提供最有效率且專業的服務，危險品包裝的目的是提供於危險品運送時最好的解決方案，DGP對於安全品質的把關絕不妥協。",
+        "missionVisionContent3" :"未來我們會一直持續投資於人力資源、專業訓練和即時系統，以確保優先和迅速的服務。"
+    },
+    "service" : {
+        "intro" : "DGP擁有專業的團隊，專門為您提供最有效率的全省服務，包括專門包裝和運輸皆按照危險貨物包裝完全符合 IATA/ICAO 規定。我們提供一系列危險貨物包裝材料和產品，其中包括 UN 紙箱/桶以及危險品標籤。",
+        "head1" : "危險品包裝材料",
+        "list1-1" : "UN 認證紙箱",
+        "list1-2" : "UN 認證塑膠桶",
+        "list1-3" : "生物醫學包裝箱",
+        "list1-4" : "危險品標籤",
+        "list1-5" : "客製化 UN 認證紙箱",
+        "head2" : "危險貨物包裝",
+        "list2-1" : "包裝/標示/標籤",
+        "list2-2" : "危險品收件與運送",
+        "list2-3" : "危險品檢查及再包裝",
+        "head3" : "危險品申報",
+        "list3-1": "危險品成份分析表檢閱",
+        "list3-2": "危險貨物申報書",
+        "list3-3": "危險品安全顧問",
+        "head4" : "危險品出貨流程",
+        "list4-1" : "危險品分類",
+        "list4-2" : "出貨準備",
+        "list4-3" : "處理/接受貨物",
+        "head5" : "危險品判斷",
+        "list5-1" : "安全資料表（SDS）",
+        "head6" : "出貨文件準備",
+        "list6-1" : "商業收據",
+        "list6-2" : "包裝明細",
+        "list6-3" : "安全資料表（SDS）",
+        "list6-4" : "UN 38.3 測試報告/1.2 m跌落測試報告（電池）",
+        "head7" : "依危險品包裝規範",
+        "list7-1" : "使用 UN 包材及規定材質的內包裝",
+        "list7-2" : "容量/重量依規範做包裝",
+        "list7-3" : "依規範黏貼標籤及標示",
+        "head8" : "危險品申告作業",
+        "list8-1" : "製作危險品申告書",
+        "list8-2" : "航空公司審核",
+        "head9" : "危險品申告完成",
+        "list9-1" : "班機訂位",
+        "list9-2" : "空運出口",
+        "head10" : "危險品操作訓練課程",
+        "list10-1" : "公司內部教育訓練，如欲了解近一步資訊，歡迎來信或電洽。"
+    },
+    "table" : {
+        "box-code" : "型號",
+        "internal-dimension-cm" : "內徑尺寸/cm",
+        "external-dimension-cm" : "外徑尺寸/cm",
+        "MOQ" : "最低訂購量",
+        "internal-dimension-mm" : "INTERNAL DIMENSION (MM)",
+        "external-dimension-mm" : "EXTERNAL DIMENSION (MM)",
+        "duration-hours" : "DURATION (Hours)",
+        "dimension-outer" : "Dimension (Outer)",
+        "dimension-inner" : "Dimension (Inner)",
+        "length" : "Length",
+        "width" : "Width",
+        "height" : "Height",
+        "diameter" : "Diameter"
+    },
+    "products" : {
+        "un-box" : {
+            "title" : "UN認證紙箱",
+            "description" : "我們提供UN認證纖維板箱（4G/4GV）危險貨物的包裝。包裝盒尺寸可供選擇如下："
+        },
+        "customized-un-box":{
+            "title" : "客製化UN認證紙箱",
+            "description" : "我們提供UN認證纖維板箱（4G/4GV）危險貨物的包裝。包裝盒尺寸可供選擇如下：",
+            "contact" : "如其他尺寸客製需求，敬請來信諮詢。"
+        },
+        "un-plastic-drums" : {
+            "title" : "UN認證塑膠桶",
+            "description" : "20L HDPE Plastic Jerrican with non-removable head.",
+            "size" : "Size of Jerrican: 280mm(L)x280mm(W)x380mm(H)",
+            "biomedical-packaging" : "生物醫學包裝箱",
+            "description1" : "DGP specializes in fulfilling the needs of companies in the Biomedical, Biotech, Clinical and Pharmaceutical Industries, offering compliance packaging and time critical international air transportation services.",
+            "description2" : "In order to ensure the safe handling of diagnostic specimen and infectious substances with speed and assurance, all DGP’s activities are performed in accordance with global safety standards: IATA/ICAO."
+        },
+        "un-biotherm" : {
+            "title" : "DGP BIOTHERM",
+            "type" : "Type"},
+        "pathopak" : {
+            "title" : "DGP PATHOPAK",
+            "features" : {
+                "title" : "Features",
+                "list1" : "Supplied complete ready to ship",
+                "list2" : "UN certified for infectious/diagnostic specimens",
+                "list3" : "Strong, durable and highly protective",
+                "list4" : "Low cost",
+                "list5" : "Easy to use",
+                "list6" : "Ideal for shipping a wide range of primary containers including blood tubes, vials, swabs, universal pots and PETRI dishes"
+            },
+            "dgp-pathopak-95kpa" : "DGP PATHOPOUCH 95kPa – IATA (Air) Compliant",
+            "cold-packs" : "Cold Packs"
+        },
+        "dg-lebels" : {
+            "title" : "危險品標籤",
+            "dg-hazard-labels" : "DG Hazard Labels",
+            "handling-labels" : "Handling Labels"
+        }
+    }
+}

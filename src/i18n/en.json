@@ -1,0 +1,140 @@
+{
+    "title": "DGP Taiwan",
+    "description": "SAFETY - QUALITY – EFFICIENCY",
+    "author": "DGP Taiwan",
+    "slogen": "",
+    "short_description": "SAFETY - QUALITY – EFFICIENCY",
+    "company_title": "DGP TAIWAN INTERNATIONAL CO., LTD.",
+    "company_title_en": "",
+    "address1": "37F Taipei 101 Tower, No.7, Sec. 5 Xinyi Road",
+    "address2": "Taipei 11049 Taiwan",
+    "disclaimer_title": "Disclaimer",
+    "disclaimer": {
+        "p1": "All information, trademarks, logos, graphics, videos, audio clips, links and other items appearing on this website (‘Information’) are for reference only and is subject to change at any time without prior notice and at the discretion of DGP Taiwan International Co., Ltd. (hereinafter ‘DGP Taiwan’, ‘the company’, ‘us’, ‘we’ or ‘our’). Whilst DGP Taiwan endeavors to ensure the accuracy of the Information on this website, no express or implied warranty is given by DGP Taiwan to the accuracy of the Information. DGP Taiwan shall bear no responsibility for any incorrectness or leakage.",
+        "p2": "DGP Taiwan shall not be liable for any damages (including but not limited to computer virus, system problems or data loss) whatsoever arising in using or in connection with the use of this website by any party. There may be links in this area, which allow you to visit the websites of other companies. These websites are not controlled by DGP Taiwan. DGP Taiwan will bear no responsibility and no guarantee to whatsoever Information displayed at such sites. Hyperlinks to other websites are at your own risk.",
+        "p3": "If there is any inconsistency or conflict between English and Chinese version of this disclaimer, the Chinese version shall prevail."
+    },
+    "nav_contact": "Have any questions?",
+    "pages":{
+        "index" : "Home",
+        "service" : "Service",
+        "products" : "Products",
+        "global" : "Global Operations",
+        "contact" : "Contact Us",
+        "un-box" : "UN Boxes",
+        "un-box-custom" : "Customized UN Box Manufacture",
+        "un-plastic-drums": "UN Plastic Drums & Jerricans",
+        "un-biotherm" : "Biomedical Packaging",
+        "dg-lebels" : "DG Labels and Markings"
+    },
+    "search": "Search",
+    "index" : {
+        "ourCorporatePhilosophy": "Our Corporate Philosophy",
+        "safety" : "Safety",
+        "safetyContent" : "Safety - Our first priority, according to IATA international regulations (DGR), ascertaining Dangerous Goods have safely delivered.",
+        "quality" : "Quality",
+        "qualityContent": "DG Packaging Group is highly committed to serving our customers with the highest quality Dangerous Goods UN approved Packaging 、repacking and professional dangerous goods safety consultation services.",
+        "efficiency" : "Efficiency",
+        "efficiencyContent" : "We deliver our highest quality services with speed and efficiency, but never compromising on safety.",
+        "missionVision" : "Mission & Vision",
+        "missionVisionContent1" :"DG Packaging is part of a global company run by a team of dedicated professionals who has numerous years of experience in dangerous goods packaging and freight industry. The emphasis of the company is to provide a complete Dangerous Goods packaging & transportation services to the customers.",
+        "missionVisionContent2" :"",
+        "missionVisionContent3" :""
+    },
+    "service" : {
+        "intro" : "DGP has a professional team dedicated to provide you with the most efficient services across the province, including special packaging and transport are in accordance with the provisions of the International Air Transport Association. We offer a range of dangerous goods packaging materials and products, including the UN Box, Drum, Hazardous labels.",
+        "head1" : "Dangerous Goods Packaging",
+        "list1-1" : "4G/4GV UN Boxes",
+        "list1-2" : "UN Plastic Drums & Jerricans",
+        "list1-3" : "Biomedical Packaging",
+        "list1-4" : "DG Hazard & Handling Labels",
+        "list1-5" : "Customized UN Box Manufacture",
+        "head2" : "DG Packaging Service",
+        "list2-1" : "Packaging/ Marking/Labelling",
+        "list2-2" : "DG Local Pick-up and Delivery",
+        "list2-3" : "Repacking and Inspection",
+        "head3" : "Preparation of Dangerous Goods Declaration",
+        "list3-1": "SDS Inspection",
+        "list3-2": "Dangerous Goods Declaration Form",
+        "list3-3": "Certified Dangerous Goods Safety Advisors",
+        "head4" : "Dangerous Goods Process",
+        "list4-1" : "Classifying Dangerous Goods",
+        "list4-2" : "Preparing Dangerous Goods Shipment",
+        "list4-3" : "Processing/Accepting Cargo",
+        "head5" : "Is it dangerous goods?",
+        "list5-1" : "Safety Data Sheet",
+        "head6" : "Prepare Documentation",
+        "list6-1" : "Commercial Invoice",
+        "list6-2" : "Packing List",
+        "list6-3" : "Safety Data Sheet",
+        "list6-4" : "UN38.3 Report/1.2m Drop Test Report (Battery)",
+        "head7" : "Packing Instruction",
+        "list7-1" : "Assess packing options including OTY limitations",
+        "list7-2" : "Apply packing requirements",
+        "list7-3" : "Apply marks and labels",
+        "head8" : "Declaration Process",
+        "list8-1" : "Complete a dangerous goods declaration form",
+        "list8-2" : "Carrier Confirmation",
+        "head9" : "Declaration Completion",
+        "list9-1" : "Booking",
+        "list9-2" : "Export",
+        "head10" : "Training Courses",
+        "list10-1" : "For more information, please contact us."
+    },
+    "table" : {
+        "box-code" : "Box Code",
+        "internal-dimension-cm" : "Internal Dimension/cm",
+        "external-dimension-cm" : "External Dimension/cm",
+        "MOQ" : "MOQ",
+        "internal-dimension-mm" : "INTERNAL DIMENSION (MM)",
+        "external-dimension-mm" : "EXTERNAL DIMENSION (MM)",
+        "duration-hours" : "DURATION (Hours)",
+        "dimension-outer" : "Dimension (Outer)",
+        "dimension-inner" : "Dimension (Inner)",
+        "length" : "Length",
+        "width" : "Width",
+        "height" : "Height",
+        "diameter" : "Diameter"
+    },
+    "products" : {
+        "un-box" : {
+            "title" : "UN Box",
+            "description" : "We offer a range of materials and products for dangerous goods packaging which include UN boxes, hazardous labels as well as absorbent materials such as vermiculite. We provide certified UN Fiberboard Boxes (4G & 4GV) for dangerous goods packaging. Variety of box sizes are available."
+        },
+        "customized-un-box":{
+            "title" : "Customized UN Box Manufacture",
+            "description" : "",
+            "contact" : "You can pick from our preset sizes or contact us to order your custom dimensions for a perfect fit."
+        },
+        "un-plastic-drums" : {
+            "title" : "UN Plastic Drums & Jerricans",
+            "description" : "20L HDPE Plastic Jerrican with non-removable head.",
+            "size" : "Size of Jerrican: 280mm(L) × 280mm(W) × 380mm(H)",
+            "biomedical-packaging" : "Biomedical Packaging",
+            "description1" : "DGP specializes in fulfilling the needs of companies in the Biomedical, Biotech, Clinical and Pharmaceutical Industries, offering compliance packaging and time critical international air transportation services.",
+            "description2" : "In order to ensure the safe handling of diagnostic specimen and infectious substances with speed and assurance, all DGP’s activities are performed in accordance with global safety standards: IATA/ICAO."
+        },
+        "un-biotherm" : {
+            "title" : "DGP BIOTHERM",
+            "type" : "Type"},
+        "pathopak" : {
+            "title" : "DGP PATHOPAK",
+            "features" : {
+                "title" : "Features",
+                "list1" : "Supplied complete ready to ship",
+                "list2" : "UN certified for infectious/diagnostic specimens",
+                "list3" : "Strong, durable and highly protective",
+                "list4" : "Low cost",
+                "list5" : "Easy to use",
+                "list6" : "Ideal for shipping a wide range of primary containers including blood tubes, vials, swabs, universal pots and PETRI dishes"
+            },
+            "dgp-pathopak-95kpa" : "DGP PATHOPOUCH 95kPa – IATA (Air) Compliant",
+            "cold-packs" : "Cold Packs"
+        },
+        "dg-lebels" : {
+            "title" : "DG Labels and Markings",
+            "dg-hazard-labels" : "DG Hazard Labels",
+            "handling-labels" : "Handling Labels"
+        }
+    }
+}
